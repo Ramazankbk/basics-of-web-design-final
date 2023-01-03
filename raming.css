@@ -1,0 +1,901 @@
+*{
+    padding: 0;
+    margin: 0;
+   }
+ 
+.banner{
+    height: 721px;
+    width:100%;
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(oyun.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.nav{
+    display: flex;
+    width:90% ;
+    position: absolute;
+    top: 50px;
+    left: 90px;
+}
+.logo5{
+    position: relative;
+   bottom: 50px;
+   right: 90px;
+
+}
+.btn-01{
+    border-radius: 20px;
+}
+
+
+
+
+.nav ul li {
+    display: inline-block;
+    margin: 0 50px;  
+}
+   
+.nav ul li a{
+    text-decoration:none;
+    color: blue;
+    
+}
+
+.nav ul li a:hover{
+    color: chartreuse;
+    transition: color 1s;}
+
+
+
+    .content{
+        width: 100%;
+        position: relative;
+        top: 37%;
+        text-align: center;
+        color: rgb(240, 119, 13);}
+
+        .content h1{
+            font-size: 65px;
+        }
+        .content p{
+            margin: 20px auto;
+        }
+         
+
+        .btn-3{
+           
+            width: 100px;
+            padding: 10px ;
+            background-color: rgb(168, 99, 233);
+            border-radius: 20px;
+        } 
+        .btn-3 a{
+            color: rgb(0, 38, 255);
+            text-decoration:none
+        }
+ 
+
+        .btn-3 a :hover{
+            color: chartreuse;
+            transition: color 1s
+        }
+
+        .iletisim{
+            width: 500px;
+            margin: auto;
+           margin-top: 60px;
+         }
+
+            
+ .form-2 input{
+    display: block;
+    width: 70%;
+    margin-top: 45px;
+  padding: 7px;
+}
+
+.iletisim h1{
+    position: absolute; 
+ top: 80px;
+    left: 650px;
+    
+}
+.form-2{
+    position: relative; 
+        left: 60px;
+        top: 50px;
+   
+        
+}
+.form-3{
+    position: relative;
+    right: 50px;
+}
+
+
+.form-2  button{
+    cursor: pointer;
+   
+    position: relative;
+    top: 40px;
+    left: 125px;
+    padding: 15px;
+    background-color: rgb(226, 6, 255);
+    border-radius: 20px;
+    
+}
+  
+
+.btn-4 a{
+color: rgb(4, 147, 59);
+font-weight: 950;
+cursor: pointer;
+text-decoration:none
+}
+
+.btn-4 a:hover{
+    color: #91f506;
+    transition: color 1s;
+    
+}
+
+
+  .nav-1{
+    color: #91f506;
+    margin-left: 600px;
+
+
+  }
+      
+.metin{
+    text-align: center;
+}
+.banner-2{
+    height: 721px;
+    width:100%;
+    background-image:url(oyunlar-resim.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+.logo-11{
+    position: absolute;
+   
+}
+
+
+
+.nav20{
+    display: flex;
+width: 90%;
+margin: auto;
+padding: 32px 0;
+align-items: center;
+justify-content: space-between;
+position:absolute;
+bottom: 200px;
+
+}
+.nav20{
+    width: 1080px;
+    height: 20px;
+    background:rgba(241, 246, 245, 0.4) ;
+    border-radius: 20px;
+}
+
+
+
+.nav-2{
+    justify-content: space-between;
+    display: flex;
+    width: 80%;
+    position:absolute;
+  top: 250px;
+  left: 200px;
+    
+}
+
+
+.nav-2 ul li {
+    display: inline-block;
+    margin: 0 25px;
+}
+.nav-2 ul li a{
+    text-decoration:none;
+    color: rgb(0, 252, 160);
+   
+}
+.nav-2 ul li a:hover{
+    color: rgb(115, 255, 0);
+    transition: color 1s;}
+
+
+
+
+
+    .banner-3{
+        height: 721px;
+        width:100%;
+        background-image:url(ruajingwork.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        color: #f50606;
+    }
+    
+    .nav-5 ul li a{
+        color: #91f506;
+        position: absolute;
+        left: 650px; 
+        bottom: 50px;
+        background-color: rgb(112, 1, 216);
+        border-radius: 20px;
+         padding: 10px;
+         text-decoration:none;
+
+    }
+
+    .nav-5 ul li a :hover{
+        color: rgb(255, 0, 0);
+        transition: color 1s
+    }
+
+    .banner-5 ul li h1{ color: #91f506;
+        position: absolute;
+        left: 520px;
+        bottom: 180px;
+
+
+    }
+
+    .logo-1{
+
+position: absolute;
+        left: 10px;
+    
+        top: 15px;
+
+    }
+
+    .banner-5 ul li H4{
+
+        color: rgb(250, 0, 225);
+    }
+
+    
+    .banner-4{
+        height: 721px;
+        width:100%;
+        background-image:url(tanrı-katili.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        color: #3ef506;
+    } 
+
+
+
+    .nav-6 ul li a{
+        color: #91f506;
+        position: absolute;
+        left: 650px; 
+        bottom: 50px;
+        background-color: rgb(112, 1, 216);
+        border-radius: 20px;
+         padding: 10px;
+         text-decoration:none;
+
+    }
+
+    .nav-6 ul li a :hover{
+        color: rgb(255, 0, 0);
+        transition: color 1s}
+
+
+        .banner-6 ul li h1{ color: #91f506;
+            position: absolute;
+            left: 520px;
+            bottom: 180px;
+        }
+         
+        .banner-7{
+            height: 721px;
+        width:100%;
+        background-image:url(3oyunresim.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        color: #3ef506;
+        list-style-type:none;
+      
+    }
+
+    .nav-7{
+        position: absolute;
+        
+        list-style-type:none;
+    }
+
+        
+    .nav-7 ul li a{
+        color: #91f506;
+        position: absolute;
+        left: 650px; 
+        bottom: 50px;
+        background-color: rgb(112, 1, 216);
+        border-radius: 20px;
+         padding: 10px;
+         text-decoration:none;
+      
+
+    }
+
+    .nav-7 ul li a :hover{
+        color: rgb(255, 0, 0);
+        transition: color 1s} 
+        
+  
+        .banner-8 ul li h1{ color: #91f506;
+            position: absolute;
+            left: 520px;
+            bottom: 150px;}
+
+
+
+            .banner-9{
+                height: 721px;
+                width:100%;
+                background-image:url(4oyun\ resim.webp);
+                background-size: cover;
+                background-repeat: no-repeat;
+                color: #3ef506;
+            } 
+        
+        
+        
+            .nav-8 ul li a{
+                color: #91f506;
+                position: absolute;
+                left: 650px; 
+                bottom: 50px;
+                background-color: rgb(112, 1, 216);
+                border-radius: 20px;
+                 padding: 10px;
+                 text-decoration:none;
+        
+            }
+        
+            .nav-8 ul li a :hover{
+                color: rgb(255, 0, 0);
+                transition: color 1s}
+
+                .banner-10 h1{
+                    color: #91f506;
+                    position: absolute;
+                    left: 450px;
+                    bottom: 180px;
+                }
+                .banner-10 h4{
+                    color: #fb04d6;
+                }
+
+              
+
+                
+
+                .baner-15 ul li h1{
+                    color: #91f506;
+                    position: absolute;
+                    left: 410px;
+                    
+                }
+                .baner-15 ul li h2{
+                    color: #91f506;
+                    position: absolute;
+                    left: 500px;
+                
+                }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                .bagis{
+                    width: 500px;
+                    margin: auto;
+                   margin-top: 60px;
+                 }
+                 
+        
+                    
+         .form-4 input{
+            display: block;
+            width: 70%;
+            margin-top: 45px;
+          padding: 7px;
+        }
+        
+        .bagis h1{
+             margin-left: 60px;
+        }
+        
+        
+        .form-4  button{
+           
+            position: relative;
+            top: 40px;
+            left: 125px;
+            padding: 15px;
+            background-color: rgb(226, 6, 255);
+            border-radius: 30px;
+            cursor: pointer;
+            text-decoration:none
+        }
+        
+        .btn-6 a{
+        color: rgb(4, 147, 59);
+        font-weight: 900;
+       
+        }
+        
+        .btn-6 a:hover{
+            color: #91f506;
+            transition: color 1s;
+            
+        }
+      
+              
+
+        
+        .iletisim-3{
+            width: 500px;
+            margin: auto;
+           margin-top: 60px;
+         }
+
+            
+ .form-6 input{
+    display: block;
+    width: 70%;
+    margin-top: 45px;
+  padding: 7px;
+}
+
+.form-6  button{
+   
+    position: relative;
+    top: 40px;
+    left: 125px;
+    padding: 15px;
+    background-color: rgb(226, 6, 255);
+}
+
+.btn-01 a{
+color: rgb(4, 147, 59);
+font-weight: 900;
+cursor: pointer;
+}
+
+.btn-01 a:hover{
+    color: #91f506;
+    transition: color 1s;
+}
+
+        
+.banner-12{
+    height: 721px;
+    width:100%;
+    background-image:url(hayata\ kalma.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}  
+
+.banner-12{
+    height: 721px;
+    width:100%;
+    background-image:url(hayata\ kalma.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #e0f904;
+}
+
+.nav-01 ul li a{
+    color: #91f506;
+    position: absolute;
+    left: 650px; 
+    bottom: 50px;
+    background-color: rgb(112, 1, 216);
+    border-radius: 20px;
+     padding: 10px;
+     text-decoration:none;
+
+}
+
+.nav-01 ul li a :hover{
+    color: rgb(255, 0, 0);
+    transition: color 1s}
+
+
+    .banner-03{
+        height: 721px;
+        width:100%;
+        background-image:url(oyunlar-resim.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+
+    .nav21{
+        display: inline-flex;
+
+    padding: 32px 0px;
+    align-items: center;
+    justify-content: space-between;
+    position:relative;
+    left: 200px;
+    top: -110px;
+    
+    }
+    .nav21{
+        width: 1080px;
+        height: 20px;
+        background:rgba(241, 246, 245, 0.4) ;
+        list-style-type: none;
+        border-radius: 20px;
+        
+  
+    }
+    
+    .nav21 a{
+        text-decoration:none;
+        margin: 0px 40px;
+    }
+
+    .nav21  a{
+      
+        color: rgb(0, 252, 160);
+        margin: 0px 40px;
+       
+    }
+    .nav21  a:hover{
+        color: rgb(115, 255, 0);
+        transition: color 1s;}
+        
+        .ban-04{
+
+           position: absolute;
+           bottom: 300px;
+           left: 60px;
+           color: #95ff00;
+        }
+        .ban-04 h1{
+            position: absolute;
+           bottom: 166px;
+            left: 560px;
+        }
+        .ban-04 h3{
+         position: absolute;
+         left: 350px;
+        top: 230px;
+        color: #ff0505;
+        font-size: 30px;
+        }
+        .btn-7{
+            position: absolute;
+            left: 650px;
+            top: 300px;
+            background-color: #fb04d6;
+            color: #0616f5;
+           padding: 10px;
+           border-radius: 20px;
+        }
+        .btn-7 :hover{
+            color: rgb(115, 255, 0);
+        transition: color 1s;
+        }
+       
+
+
+
+    
+
+        .banner001{
+            height: 721px;
+            width:100%;
+            background-image:url(oyunlar-resim.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;}
+
+
+
+            
+    .nav22{
+        display: inline-flex;
+
+    padding: 32px 0px;
+    align-items: center;
+    justify-content: space-between;
+    position:relative;
+    left: 95px;
+    top: -59px;
+    
+    }
+    .nav22{
+        width: 1080px;
+        height: 20px;
+        background:rgba(241, 246, 245, 0.4) ;
+        list-style-type: none;
+        border-radius: 20px;
+        
+  
+    }
+    
+    .nav22 a{
+        text-decoration:none;
+        margin: 0px 40px;
+    }
+
+    .nav22  a{
+      
+        color: rgb(0, 252, 160);
+        margin: 0px 40px;
+       
+    }
+    .nav22  a:hover{
+        color: rgb(115, 255, 0);
+        transition: color 1s;}
+        .navbar-05 h3:hover{
+            color: #f90404;
+         
+            transition: color 1s;}
+
+
+        .logo20{
+            position: absolute;
+            left: 590px;
+            color: #95ff00;
+       
+
+
+        }
+   
+   
+        .logo-13{
+
+            position: relative;
+            left: 256px;
+            top: 100px;
+
+        }
+        .logo-14{
+
+           position: relative;
+            left: 330px;
+            top: 100px;
+
+        }
+        .logo-15{
+            position: relative;
+            left: 430px;
+            top: 100px;
+
+
+        }
+
+
+        .logo-16{
+            position: relative;
+            left: 540px;
+            top: 100px;
+
+
+        }
+        .logo-17{
+            position: relative;
+            left: 660px;
+            top: 100px;
+        }
+        .logo-18{
+            position: absolute;
+            right: 920px;
+            top: -14px;
+        }
+        .navbar-05 h3{
+            position: absolute;
+            bottom: 350px;
+            left: 250px;
+            color: #9eff15;
+
+        }
+        .nav005{
+            color: #ff0000;
+            position: absolute;
+            left: 600px;
+            bottom: 150px;
+
+        }
+        .nav005 h2{
+            margin-left: 30px;
+
+        }
+        
+        .btn-11{
+            position: absolute;
+            left: 120px;
+            top: 70px;
+            background-color: #fb04d6;
+            padding: 7px;
+            border-radius: 30px;
+           
+
+        
+        }
+
+
+        .btn-11 a:hover{
+            color: rgb(255, 255, 255);
+            transition: color 1s;}
+
+           .br1{
+            position: absolute;
+            left: 430px;
+            bottom: 450px;
+           }
+           .br2{
+            position: absolute;
+            left: 400px;
+            bottom: 400px;
+           }
+
+           .banner8{
+            color: #fb04d6;
+            position: relative;
+            top: 100px;
+           
+       
+           }
+           .banner8 h1{
+            position: absolute;
+            left: 650px;
+            top: -200px;
+            color: #000000;
+           }
+           .banner8 h2{
+            color: #000000;
+           }
+
+           .banner-6 h4{
+            font-size: 18px;
+
+            color: #fb04d6;
+           }
+
+           .banner-07{
+
+            height: 721px;
+            width:100%;
+            background-image:url(5oyun-resim1.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;}
+
+           .nav-08{
+            color: #91f506;
+           }
+          
+
+           .nav-08 a{
+            position: absolute;
+            left: 600px;
+            bottom: 50px;
+            background-color: #9c04fb;
+            color: #3af506;
+           padding: 10px;
+           border-radius: 20px;
+           text-decoration:none;
+           }
+           .nav-08 a:hover{
+            color: rgb(255, 0, 0);
+            transition: color 1s;
+           }
+           .baner-18{
+            color: #91f506;
+            position:relative;
+            top: 140px;
+            
+           }
+           .baner-18 h1{
+            position: absolute;
+            left: 650px;
+           bottom: 300px;
+           }
+           .baner-18 h4{
+            color: #000000;
+           }
+           .baner0{
+            height: 721px;
+            width:100%;
+            background-image:url(oyunlar-resim.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;}
+            
+            .tablo table{
+                position: absolute;
+                border-collapse: collapse;
+                width: 50%;
+                left: 350px;
+                top: 200px;
+            }
+
+
+            .tablo table td,th{
+                border:1px solid rgb(202, 200, 200);
+                color: rgb(50, 251, 0);
+                font-size: 30px;
+                cursor: pointer;
+            }
+            .tablo  table th{
+                background-color: #137cfc;
+                color: rgb(255, 0, 0);
+                font-size: 30px;
+            }
+            .tablo table td:hover{
+                color: rgb(255, 0, 0);
+            transition: color 1s;
+            font-size: 32px;
+           
+
+            }
+
+
+
+
+            .nav-27{
+                display: inline-flex;
+        
+            padding: 32px 0px;
+            align-items: center;
+            justify-content: space-between;
+            position:relative;
+            left: 100px;
+            top: -60px;
+      
+            
+            }
+            .nav-27{
+                width: 1080px;
+                height: 20px;
+                background:rgba(241, 246, 245, 0.4) ;
+                list-style-type: none;
+                border-radius: 20px;
+                
+          
+            }
+            
+            .nav-27 a{
+                text-decoration:none;
+                margin: 0px 40px;
+            }
+        
+            .nav-27  a{
+              
+                color: rgb(0, 252, 160);
+                margin: 0px 40px;
+               
+            }
+            .nav-27  a:hover{
+                color: rgb(115, 255, 0);
+                transition: color 1s;}
+                
+                
+          
+         
+        
